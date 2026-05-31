@@ -10,9 +10,9 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c3eec257-d1dd-40a2-b53d-8dd5dfc6bbc3) and start prompting.
+Simply visit the [Site] (https://moonlit-arithmetic-1255d7.netlify.app/) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via Netlify and Render will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -62,7 +62,7 @@ This project is built with .
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/c3eec257-d1dd-40a2-b53d-8dd5dfc6bbc3) and click on Share -> Publish.
+Simply open [Netlify](https://moonlit-arithmetic-1255d7.netlify.app/) and click on Share -> Publish.
 
 ## I want to use a custom domain - is that possible?
 
