@@ -1,7 +1,7 @@
 const io = require("socket.io-client");
 
 // Replace with your server's URL (e.g., http://localhost:3000)
-const SERVER_URL = "http://localhost:5000";
+const SERVER_URL = "https://tripsync-8yss.onrender.com";
 
 // Connect to the server with a userId query parameter
 const userId = "user123"; // Replace with a unique user ID
